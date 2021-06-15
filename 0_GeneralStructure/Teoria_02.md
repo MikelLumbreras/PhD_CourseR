@@ -24,13 +24,22 @@
 
 *(Hasta aquí: 1h')*
 
-## Métricas De Error
+## Métricas De Error en Regresión
 * ¿Que Metricas son comunmente Usadas? Ecuaciones y Conparativa de Concepto
   - Coeficiente de Determinación (R2)
   - Root Mean Square Error (RMSE)
   - Coefficient of Variance Root Mean Square Error (RMSE)
   - Mean Absolute Error (MAE)
-* Metricas de Error en R
+* Metricas de Error de Regresión en R
+*(Hasta Aquí: 1,5h)
+
+## Métricas De Error en Clasificación
+* ¿Que Metricas son comunmente Usadas? Ecuaciones y Conparativa de Concepto
+  - Matriz de Confusión
+  - Accuracy/Precisión
+  - Curva ROC
+  - Etc.
+* Metricas de Error de clasificación en R
 
 *(Hasta Aquí: 2h)
 
