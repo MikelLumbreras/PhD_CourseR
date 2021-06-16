@@ -6,7 +6,8 @@
 
 # Módulo 1. Práctica (4h)
 
-# Introducción General *(15')*
+# Bloque 1
+# Introducción General *(Teoria 15')*
 - Breve resumen de herramienta de análisis de datos más usuales
 - R
 - Control de versiones y trabajo colaborativo
@@ -20,6 +21,7 @@
 - Abrir RStudio
 - Nuevo Proyecto con control de versiones
 - Clonar repositorio de la práctica
+## [Script 1]
 - Script de prueba
   - Abrir CSV
   - Gráfico de 1 día de datos
@@ -33,7 +35,9 @@
 
 *(Hasta aquí, 1h)*
 
-# Subseteado *(Práctica 15')*
+# Bloque 2
+# Subseteado *(Práctica 10')*
+## [Script 2]
 *Tomar un dataframe como base y empezar a buscar formas de sacar información. Luego hacer medias y graficarlas.*
 - Sumario de carga de un mes del año
   - subsetear por numérico
@@ -42,18 +46,13 @@
   - item for que recorre una lista de meses
   - luego subsetear por numérico
   - guardar información en una matriz
-- Sumario de carga de un día de la semana
-  - subsetear por string
-  - guardar información en un vector
-- Sumario de carga de todos los días de la semana
-  - item for que recorre una lista de meses
-  - luego subsetear por string
-  - guardar información en una matriz
+  - Convertir matriz a data frame
+- Inspeccionar vector, matriz data frame (A realizar por los alumnos)
+  - Ver cómo salen en la consola
+  - Ver cómo se indexa a cada uno
+## [Script 2. Resuelto]
 
-[CONTINUAR]
-
-
-# Tipos de datos *(Teoria 15')*
+# Tipos de datos *(Teoria 10')*
 - Numéricos
 - Booleanos
 - String
@@ -62,16 +61,44 @@
 - Data Frame
 - Lista
 
-# Leer y escribir archivos
-- Leer desde CSV
-- Escribir a CSV
-- Verificar decimales
-- Verificar y corregir tipos de datos
-- Archivos RDS
+# Subseteado, a resolver por los alumnos *(Práctica 10')*
+## [Script 3]
+- Sumario de carga de un día de la semana
+  - subsetear por string
+  - guardar información en un vector
+- Sumario de carga de todos los días de la semana (A realizar por los alumnos)
+  - item for que recorre una lista de meses
+  - luego subsetear por string
+  - guardar información en una matriz
+  - Convertir matriz a data frame
+## [Script 3. Resuelto]
 
-# Graficar
+*(Hasta aquí, 1, 30'h)*
+*(Descanso, 15')*
+
+# Leer y escribir archivos *(Práctica, 15')*
+## [Script 4]
+- Leer desde CSV
+  - Abrir archivo con editor de texto y verificar formato
+  - Cargar CSV
+  - head/tail
+  - Sumario
+- Verificar y corregir
+  - Decimales
+  - Tipos de datos
+- Escribir a CSV
+  - Abrir archivo con editor de texto y verificar formato
+- Archivos RDS
+  - Escribir RDS
+  - (Intentar) Abrir archivo con editor de texto y verificar formato
+  - Cargar RDS  
+
+# Bloque 3
+# Graficar (30')
 - Series temporales
 - Boxplot
+
+# Marcas de tiempo
 
 # Flujo del programa
 - IF
