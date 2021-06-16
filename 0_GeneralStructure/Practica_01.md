@@ -73,7 +73,7 @@
   - Convertir matriz a data frame
 ## [Script 3. Resuelto]
 
-*(Hasta aquí, 1, 30'h)*
+*(Hasta aquí, 1h30')*
 *(Descanso, 15')*
 
 # Leer y escribir archivos *(Práctica, 15')*
@@ -93,16 +93,68 @@
   - (Intentar) Abrir archivo con editor de texto y verificar formato
   - Cargar RDS  
 
+*(Hasta aquí, 2h')*
+
 # Bloque 3
-# Graficar (30')
-- Series temporales
+# Graficar (60')
+## [Script 4]
+- Series temporales (carga térmica vs tiempo)
+  - Plotear 1 mes
+  - Plotear 1 día
+  - Añadir todos los días de una semana
+- Colores
+  - Gráfico vacío
+  - Añadir series de 1 día a lo largo de toda la semana, cada una con un color
+- Auxiliares
+  - Añadir leyenda eje X
+  - Añadir leyenda eje Y
+  - Añadir título
+  - Añadir leyenda
+
+(A realizar por los alumnos)
+  -  Series temporales (carga térmica vs tiempo)
+  -  semanas 1, 15, 26, 38 en colores
+  -  Ejes, leyendas,...
+ ## [Script 4. Resuelto. 1]
+
+- Dividir gráfico
+  - 3 gráficos en horizontal
+  - Carga térmica, Temperatura, Radiación solar
+  - Graficar 1 día
+
+(A realizar por los alumnos)
+  - 3 gráficos en vertical
+  - Carga térmica, Temperatura, Radiación solar
+  - Graficar semana 15
+## [Script 4. Resuelto. 2]
+
+- Gráfico XY
+  - Carga térmica vs Temperatura
+
+(A realizar por los alumnos)
+  - Carga térmica vs Temperatura
+  - Color distinto para cada mes
+## [Script 4. Resuelto. 3]
+
 - Boxplot
+  - Carga térmica para cada mes
 
-# Marcas de tiempo
+- Heat Map
+  - X: Hora de la semana
+  - Y: Semana del año
+  - Color: Carga
 
-# Flujo del programa
+- Gráfico a archivo
+
+*(Hasta aquí, 3h')*
+*(Descanso, 15')*
+
+# Marcas de tiempo (15')
+
+# Flujo del programa (15')
+- Indexación
 - IF
 - FOR
 - WHILE
 
-# Subseteado
+# Subseteado (15')
