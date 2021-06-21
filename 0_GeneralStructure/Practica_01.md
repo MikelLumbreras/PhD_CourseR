@@ -1,9 +1,5 @@
 # Análisis de datos para cargas energéticas en edificios. Contexto, Métodos de análisis, Herramientas y Aplicaciones
 
-*[SIN TERMINAR]*
-*[Definir qué va en cada script]*
-*[En cada script se presenta lo que se explica en el bloque inmediatamente siguiente]*
-
 # Módulo 1. Práctica (4h)
 
 # Bloque 1
