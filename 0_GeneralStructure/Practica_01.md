@@ -155,6 +155,7 @@
 *(Hasta aquí, 3h')*
 *(Descanso, 15')*
 
+# Bloque 4
 # Marcas de tiempo (15')
 ## [Script 5]
 - Indexación como POSIXCT
@@ -177,7 +178,7 @@
 - Sacar gráfico Q vs T para todos los meses del año
 ## [Script 6. Resuelto]
 
-# Subseteado (15')
+# Subseteado (2ª parte) (15')
 ## [Script 7]
 - Subseteado por índices
 - Subseteado por condiciones
