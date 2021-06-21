@@ -139,6 +139,10 @@
 - Boxplot
   - Carga térmica para cada mes
 
+(a realizar por los alumnos)
+  - Carga térmica para cada día de la semana en ENERO
+## [Script 4. Resuelto. 4]
+
 - Heat Map
   - X: Hora de la semana
   - Y: Semana del año
@@ -146,15 +150,43 @@
 
 - Gráfico a archivo
 
+(a realizar por los alumnos)
+- Gráfico XY a archivo
+  - Carga térmica vs Temperatura
+  - Color distinto para cada mes
+## [Script 4. Resuelto. 5]
+
 *(Hasta aquí, 3h')*
 *(Descanso, 15')*
 
 # Marcas de tiempo (15')
+## [Script 5]
+- Indexación como POSIXCT
+- Sacar valores típicos día del año, día de la semana,...
+
+(a realizar por los alumnos)
+- Sacar la semana 45
+- Gráfico XY Carga vs Temperatura a archivo
+## [Script 5. Resuelto]
+
 
 # Flujo del programa (15')
+## [Script 6]
 - Indexación
 - IF
 - FOR
 - WHILE
 
+(a realizar por los alumnos)
+- Sacar gráfico Q vs T para todos los meses del año
+## [Script 6. Resuelto]
+
 # Subseteado (15')
+## [Script 7]
+- Subseteado por índices
+- Subseteado por condiciones
+
+(a realizar por los alumnos)
+- Sacar data frame con Mes=7
+- Sacar data frame con Mes=3 y carga >XXXkW
+## [Script 7. Resuelto]
