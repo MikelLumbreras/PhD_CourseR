@@ -41,6 +41,7 @@
 
 ## [Script 1, Resuelto]
 *(hasta aquí, 1h 15')*
+
 *(Descanso, 15')*
 
 
@@ -70,5 +71,34 @@
 ## [Script 2, Resuelto]
 
 *(hasta aquí, 2h 30')*
+
 *(Descanso, 15')*
 
+# Variables Relevantes
+*(Práctica 60`)*
+## [Script 3]
+- Definir sensibilidad
+  - Gráfico de correlación
+  - Boxplot del output por variables de calendario
+  - Gráfico de correlación vs error de modelo simple
+  - Boxplot del error del modelo simple por variables de calendario
+
+- ·Generar variables auxiliares
+  - Gráfico de correlación
+  - Gráfico de correlación vs error de modelo simple
+
+- Extender el proceso de ASHRAE
+  - Archivo de registro información
+  - Calcular parámetros correspondiente a cada segmento
+  - Simular
+
+- Identificar mejoras al modelo
+  - Métricas de error del modelo simple vs sobreparametrizado
+
+- Selección de variables
+  - Significancia variables [¿Cómo se calcula a mano?]
+  - Selección de las más relevantes
+  - Generar subset con variables relevantes
+  - Nuevo proceso de identificación
+  - Métricas de error y comparación con modelos simple y sobreparametrizado
+## [Script 3, Resuelto]
