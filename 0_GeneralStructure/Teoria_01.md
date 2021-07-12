@@ -4,12 +4,14 @@
 
 # Contenido
 *(15')*
-## Objetivos académicos
+## Objetivos
+## Estructura del seminario
 ## Herramientas y datos
 - Dataset de cargas térmicas de edificios
 - Dataset climático
 - R
 - GIT & GITHUB
+## CV de los ponentes
 
 *(hasta aquí 15')*
 
