@@ -1,8 +1,7 @@
 # Análisis de datos para cargas energéticas en edificios. Contexto, Métodos de análisis, Herramientas y Aplicaciones
 
 # Módulo 2. Práctica (4h)
-## Bloque 1
-
+## Bloque 1 [Script 2.1]
 ## Repaso Práctica Anterior (Teoria 30')
 * Cargar tabla de datos desde directorio
 * Subseteado + Operaciones Varias
@@ -13,15 +12,15 @@
 * Analisis de Correlación entre variables
 * Modelos de Regresion Lineales: Univariables + Multivariables + Multivariables por Tramos
 
-## Bloque 2
+## Bloque 2 
 
-## Analisis de Correlación (Teoría + Práctica 20') <-- Nuevo Script
+## Analisis de Correlación (Teoría + Práctica 20') <-- Nuevo Script [Script 2.2]
 * Introducción a las Funciones
 * Generar Función para lectura de datos
 * Correlation chart entre variables libres
 * Guardar coefientes de Pearson etc. 
 
-## Regresión Lineal Univariable Q-T (Práctica 30')
+## Regresión Lineal Univariable Q-T (Práctica 30') [Script 2.3]
 * Generar Modelo de Regresion Lineal
 * Plotear Q-T Real contra el modelo
 * Calcular Métricas de Error de regresion comunes: R2, RMSE, etc.
@@ -31,14 +30,14 @@
 
 ## Bloque 3
 
-## Regresion Lineal Multivariable (Práctica 1h)
+## Regresion Lineal Multivariable (Práctica 1h) [Script 2.4]
 * Generar Modelo de Regresion Lineal
 * Plotear Q-t real contra el modelo Anual
 * Plotear Q-t para un día en concreto
 * Calcular Métricas de Error de regresion comunes: R2, RMSE, etc.
 * Guardar Resultados
 
-## Comparación Entre Modelo de Regresion Lineal Univariable + Multivariable (30')
+## Comparación Entre Modelo de Regresion Lineal Univariable + Multivariable (30') [Script 2.5]
 * Juntar Datis de metricas de error
 * barplot de los R2
 
