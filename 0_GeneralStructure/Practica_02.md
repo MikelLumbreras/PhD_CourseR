@@ -20,7 +20,9 @@
 * Correlation chart entre variables libres
 * Guardar coefientes de Pearson etc. 
 
-## Regresión Lineal Univariable Q-T (Práctica 30') [Script 2.3]
+## Bloque 3 [Script 2.3]
+
+## Regresión Lineal Univariable Q-T (Práctica 30') 
 * Generar Modelo de Regresion Lineal
 * Plotear Q-T Real contra el modelo
 * Calcular Métricas de Error de regresion comunes: R2, RMSE, etc.
@@ -28,16 +30,14 @@
 
 ## Descanso (15')
 
-## Bloque 3
-
-## Regresion Lineal Multivariable (Práctica 1h) [Script 2.4]
+## Regresion Lineal Multivariable (Práctica 1h)
 * Generar Modelo de Regresion Lineal
 * Plotear Q-t real contra el modelo Anual
 * Plotear Q-t para un día en concreto
 * Calcular Métricas de Error de regresion comunes: R2, RMSE, etc.
 * Guardar Resultados
 
-## Comparación Entre Modelo de Regresion Lineal Univariable + Multivariable (30') [Script 2.5]
+## Comparación Entre Modelo de Regresion Lineal Univariable + Multivariable (30') 
 * Juntar Datis de metricas de error
 * barplot de los R2
 
