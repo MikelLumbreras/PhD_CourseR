@@ -60,18 +60,13 @@
 
 ## Sensibilidad climática
 *(10')*
-*(Diapositivas 12 a 19 del SMACCS_Load_Assessment_Meters_20210407)*
 
 ## Use profiles
 *(15')*
-*(Diapositivas 42 a 55 del SMACCS_Load_Assessment_Meters_20210407)*
-**REVISAR CON MIKEL, LAS DIAPOSITIVAS 48 A 55 SON DEL PAPER DE NUS SOBE CLUSTERIZACIÓN**
 
 *(hasta aquí 95')*
 # M&V
 *(15')*
-*(Diapositivas 22 a 39 del SMACCS_Load_Assessment_Meters_20210407)*
-**REVISAR CON MIKEL, LA DIAPOSITIVA 29 ES DEL PAPER DEL MÉTODO DE REGRESIÓN PUBLICADO EN beyond2020**
 
 *(hasta aquí 110')*
 # Acceso a datos e instalación de software
