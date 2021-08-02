@@ -29,7 +29,7 @@
 # Bloque 2
 *(Práctica 90')*
 # PRISM
-*(Práctica 45`)*
+*(Práctica 15`)*
 ## [Script 1]
 
 - Calcular HDD
@@ -40,10 +40,7 @@
 - Métricas de error 
 
 ## [Script 1, Resuelto]
-*(hasta aquí, 1h 15')*
-
-*(Descanso, 15')*
-
+*(hasta aquí, 35')*
 
 # ASHRAE Changepoint
 *(Práctica 60`)*
@@ -70,7 +67,7 @@
 
 ## [Script 2, Resuelto]
 
-*(hasta aquí, 2h 30')*
+*(hasta aquí, 1h 30')*
 
 *(Descanso, 15')*
 
@@ -102,3 +99,5 @@
   - Nuevo proceso de identificación
   - Métricas de error y comparación con modelos simple y sobreparametrizado
 ## [Script 3, Resuelto]
+*(hasta aquí, 2h 45')*
+*(Meter algo más??)*

@@ -3,36 +3,36 @@
 # Módulo 1. Práctica (4h)
 
 # Bloque 1
-# Introducción General *(Teoria 15')*
-- Breve resumen de herramienta de análisis de datos más usuales
-- R
-- Control de versiones y trabajo colaborativo
-- GITHUB
 
-# Contenido de la práctica *(Teoria 15')*
+# Contenido de la práctica
+*(Teoria 10')*
 - Qué se va a hacer
 - Herramientas y datos
 
-# Puesta a punto *(Práctica 15')*
+# Puesta a punto
+*(Práctica 20')*
 - Abrir RStudio
-- Nuevo Proyecto con control de versiones
-- Clonar repositorio de la práctica
-## [Script 1]
+- Descargar repositorio desde URL
+- Nuevo Proyecto
+
+## [Script 1] 
 - Script de prueba
   - Abrir CSV
   - Gráfico de 1 día de datos
   - Sumario de señales
 
-# Estructura básica de R Studio *(Teoria 15')*
+# Estructura básica de R Studio
+*(Teoria 15')*
 - Lenguaje interpretado
 - Proyecto
 - Script
 - Consola
 
-*(Hasta aquí, 1h)*
+*(Hasta aquí, 45h)*
 
 # Bloque 2
-# Subseteado *(Práctica 10')*
+# Subseteado
+*(Práctica 10')*
 ## [Script 2]
 *Tomar un dataframe como base y empezar a buscar formas de sacar información. Luego hacer medias y graficarlas.*
 - Sumario de carga de un mes del año
@@ -48,7 +48,8 @@
   - Ver cómo se indexa a cada uno
 ## [Script 2. Resuelto]
 
-# Tipos de datos *(Teoria 10')*
+# Tipos de datos
+*(Teoria 10')*
 - Numéricos
 - Booleanos
 - String
@@ -57,7 +58,8 @@
 - Data Frame
 - Lista
 
-# Subseteado, a resolver por los alumnos *(Práctica 10')*
+# Subseteado, a resolver por los alumnos
+*(Práctica 10')*
 ## [Script 3]
 - Sumario de carga de un día de la semana
   - subsetear por string
@@ -69,10 +71,11 @@
   - Convertir matriz a data frame
 ## [Script 3. Resuelto]
 
-*(Hasta aquí, 1h30')*
+*(Hasta aquí, 1h15')*
 *(Descanso, 15')*
 
-# Leer y escribir archivos *(Práctica, 15')*
+# Leer y escribir archivos
+*(Práctica, 15')*
 ## [Script 4]
 - Leer desde CSV
   - Abrir archivo con editor de texto y verificar formato
@@ -82,6 +85,8 @@
 - Verificar y corregir
   - Decimales
   - Tipos de datos
+- Calcular
+  - HDD 15ºC
 - Escribir a CSV
   - Abrir archivo con editor de texto y verificar formato
 - Archivos RDS
@@ -89,10 +94,11 @@
   - (Intentar) Abrir archivo con editor de texto y verificar formato
   - Cargar RDS  
 
-*(Hasta aquí, 2h')*
+*(Hasta aquí, 1h45')*
 
 # Bloque 3
-# Graficar (60')
+# Graficar
+*(Práctica, 60')*
 ## [Script 4]
 - Series temporales (carga térmica vs tiempo)
   - Plotear 1 mes
@@ -127,6 +133,9 @@
 - Gráfico XY
   - Carga térmica vs Temperatura
 
+- Gráfico XY
+  - Carga térmica vs HDD
+
 (A realizar por los alumnos)
   - Carga térmica vs Temperatura
   - Color distinto para cada mes
@@ -152,11 +161,12 @@
   - Color distinto para cada mes
 ## [Script 4. Resuelto. 5]
 
-*(Hasta aquí, 3h')*
+*(Hasta aquí, 2h45')*
 *(Descanso, 15')*
 
 # Bloque 4
-# Marcas de tiempo (15')
+# Marcas de tiempo
+*(Práctica, 15')*
 ## [Script 5]
 - Indexación como POSIXCT
 - Sacar valores típicos día del año, día de la semana,...
@@ -167,7 +177,8 @@
 ## [Script 5. Resuelto]
 
 
-# Flujo del programa (15')
+# Flujo del programa
+*(Práctica, 15')*
 ## [Script 6]
 - Indexación
 - IF
@@ -178,7 +189,8 @@
 - Sacar gráfico Q vs T para todos los meses del año
 ## [Script 6. Resuelto]
 
-# Subseteado (2ª parte) (15')
+# Subseteado (2ª parte)
+*(Práctica, 15')*
 ## [Script 7]
 - Subseteado por índices
 - Subseteado por condiciones
@@ -187,3 +199,6 @@
 - Sacar data frame con Mes=7
 - Sacar data frame con Mes=3 y carga >XXXkW
 ## [Script 7. Resuelto]
+
+# Funciones
+*(Práctica, 15')*
